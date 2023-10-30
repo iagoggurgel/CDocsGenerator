@@ -25,8 +25,10 @@ git checkout -b sua_branch
 ```console
 git push origin sua_branch
 ```
-3. Faça merge das alterações no site do GitHub.
-4. Exclua sua branch local
+3. Faça merge das alterações no site do GitHub e delete sua branch após o merge com a main.
+4. Informe os outros sobre suas alterações.
+5. Exclua sua branch local
 ```console
 git branch -d sua_branch
 ```
+6. Repita o procedimento sempre que for alterar o projeto.
